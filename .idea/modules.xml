@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SWEA.iml" filepath="$PROJECT_DIR$/.idea/SWEA.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWEA_D2_1204_mode/SWEA_D2_1204_mode.iml" filepath="$PROJECT_DIR$/SWEA_D2_1204_mode/SWEA_D2_1204_mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWEA_D2_1984_MIDnAVG/SWEA_D2_1984_MIDnAVG.iml" filepath="$PROJECT_DIR$/SWEA_D2_1984_MIDnAVG/SWEA_D2_1984_MIDnAVG.iml" />
       <module fileurl="file://$PROJECT_DIR$/SWEA_D2_369/SWEA_D2_369.iml" filepath="$PROJECT_DIR$/SWEA_D2_369/SWEA_D2_369.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWEA_D3_1215_palindrome/SWEA_D3_1215_palindrome.iml" filepath="$PROJECT_DIR$/SWEA_D3_1215_palindrome/SWEA_D3_1215_palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWEA_D3_12368_24hour/SWEA_D3_12368_24hour.iml" filepath="$PROJECT_DIR$/SWEA_D3_12368_24hour/SWEA_D3_12368_24hour.iml" />
     </modules>
   </component>
 </project>

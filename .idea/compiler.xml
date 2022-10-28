@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SWEA_D2_1204_mode" options="--add-modules java.base" />
+      <module name="SWEA_D2_1984_MIDnAVG" options="--add-modules java.base" />
+      <module name="SWEA_D2_369" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>
